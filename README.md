@@ -3,7 +3,6 @@
 <b>Me</b></br>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://gomddu.tistory.com/)](https://gomddu.tistory.com/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:dlqudwn0424@gmail.com)](mailto:dlqudwn0424@gmail.com)
 
-
 <b>Skills</b></br>
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=Html5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 
