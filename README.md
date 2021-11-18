@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/github/followers/Gomddu?style=social">
 
 <h2>🧾<b>Projects</b></h2>
-1. 캡스톤 디자인 (2020)</br>
+1. 헤이요_캡스톤디자인 (2020)</br>
 대학 졸업작품. 특정조건 입력시 재생되는 터치 매크로 안드로이드 어플 개발. 모바일 앱 출시 및 버전관리 경험. 
 </br>
 2. 취미 공유 사이트 (2021)</br>
