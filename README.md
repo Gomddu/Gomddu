@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">  <img src="https://img.shields.io/badge/Atlassian-0052CC?style=flat&logo=Atlassian&logoColor=white">  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">  <img src="https://img.shields.io/badge/SLACK-4A154B?style=flat&logo=Slack&logoColor=white">
 
 
-<img src="https://img.shields.io/github/followers/Gomddu?style=social">
+<img src="https://img.shields.io/github/followers/Gomddu?style=social"> 
 
 <h2>🧾<b>Projects</b></h2>
 1. 헤이요 (2020)</br>
