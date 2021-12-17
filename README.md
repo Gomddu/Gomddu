@@ -1,7 +1,7 @@
 #Gomddu  
 
 <h2>👨‍💻<b>Me</b></h2> 
- 
+  
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat&logo=github&link=https://gomddu.tistory.com/)](https://gomddu.tistory.com/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:dlqudwn0424@gmail.com)](mailto:dlqudwn0424@gmail.com)
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlqudwn0424">
 <h6>- 정보처리기사(2020)</>
